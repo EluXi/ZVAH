@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.Ahumanwithgunisfightingzombies.sohecangetweapon"
+    versionCode = "10"
+    version     = "0.0.1" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>ZVAH</name>
+
+  <description>
+      You are human with gun and you fight with zombies, and by killing them you are getting better weapon. It's alpha of game and it have gun, shotgun, SMG and sniper, and randomized zombies.
+  </description>
+
+  <author href="https://build.phonegap.com" email="mlekojanowice@gmail.com">
+      EluXi
+  </author>
+
+  <icon src="icon.png" />
+
+</widget>
